@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordEditor", "WordEditor\WordEditor.csproj", "{4FF32D1E-23C9-4071-82C1-6AB32F9FB653}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FF32D1E-23C9-4071-82C1-6AB32F9FB653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FF32D1E-23C9-4071-82C1-6AB32F9FB653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FF32D1E-23C9-4071-82C1-6AB32F9FB653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FF32D1E-23C9-4071-82C1-6AB32F9FB653}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
